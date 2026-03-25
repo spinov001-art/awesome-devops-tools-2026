@@ -176,6 +176,9 @@
 
 ## Related Awesome Lists
 
+- [awesome-ai-tools-2026](https://github.com/spinov001-art/awesome-ai-tools-2026) — 150+ AI tools, LLMs, agents
+- [awesome-mcp-tools-2026](https://github.com/spinov001-art/awesome-mcp-tools-2026) — 130+ MCP servers & clients
+- [awesome-api-tools-2026](https://github.com/spinov001-art/awesome-api-tools-2026) — 120+ API development tools
 - [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 150+ web scraping tools
 - [awesome-cli-tools-2026](https://github.com/spinov001-art/awesome-cli-tools-2026) — 50+ modern CLI tools
 - [awesome-python-devtools-2026](https://github.com/spinov001-art/awesome-python-devtools-2026) — 80+ Python developer tools
