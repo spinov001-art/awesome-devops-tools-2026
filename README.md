@@ -174,7 +174,9 @@
 
 ---
 
-## Related Awesome Lists
+## Related
+
+- [Awesome Security Tools 2026](https://github.com/spinov001-art/awesome-security-tools-2026) - 150+ cybersecurity tools Awesome Lists
 
 - [awesome-ai-tools-2026](https://github.com/spinov001-art/awesome-ai-tools-2026) — 150+ AI tools, LLMs, agents
 - [awesome-mcp-tools-2026](https://github.com/spinov001-art/awesome-mcp-tools-2026) — 130+ MCP servers & clients
