@@ -176,16 +176,14 @@
 
 ## Related
 
-- [Awesome Security Tools 2026](https://github.com/spinov001-art/awesome-security-tools-2026) - 150+ cybersecurity tools Awesome Lists
-
+- [Awesome Security Tools 2026](https://github.com/spinov001-art/awesome-security-tools-2026) — 150+ cybersecurity tools
 - [awesome-ai-tools-2026](https://github.com/spinov001-art/awesome-ai-tools-2026) — 150+ AI tools, LLMs, agents
 - [awesome-mcp-tools-2026](https://github.com/spinov001-art/awesome-mcp-tools-2026) — 130+ MCP servers & clients
 - [awesome-api-tools-2026](https://github.com/spinov001-art/awesome-api-tools-2026) — 120+ API development tools
-- [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 150+ web scraping tools
+- [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 130+ web scraping tools, frameworks & proxies
 - [awesome-cli-tools-2026](https://github.com/spinov001-art/awesome-cli-tools-2026) — 50+ modern CLI tools
 - [awesome-python-devtools-2026](https://github.com/spinov001-art/awesome-python-devtools-2026) — 80+ Python developer tools
-
----
+- [awesome-free-research-apis](https://github.com/spinov001-art/awesome-free-research-apis) — 30+ free academic APIs
 
 ## Contributing
 
