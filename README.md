@@ -185,6 +185,14 @@
 - [awesome-python-devtools-2026](https://github.com/spinov001-art/awesome-python-devtools-2026) — 80+ Python developer tools
 - [awesome-free-research-apis](https://github.com/spinov001-art/awesome-free-research-apis) — 30+ free academic APIs
 
+## Need DevOps Automation?
+
+I build custom CI/CD pipelines, monitoring dashboards, and data infrastructure.
+
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your need, get a free quote in 2 hours.
+
+🔧 **[78+ ready-made automation tools →](https://apify.com/knotless_cadence)** | 📊 **[506 market research reports →](https://github.com/spinov001-art/ai-market-research-reports)**
+
 ## Contributing
 
 PRs welcome! Please ensure your suggestion is:
