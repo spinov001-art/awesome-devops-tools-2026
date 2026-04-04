@@ -195,7 +195,7 @@ PRs welcome! Please ensure your suggestion is:
 ## Author
 
 **Aleksej Spinov** — AI & Automation Engineer
-- 🌐 [Portfolio](https://spinov001-art.github.io)
+- 🌐 [Portfolio](https://github.com/spinov001-art)
 - 💻 [GitHub](https://github.com/spinov001-art) — 270+ open source repos
 - 📧 spinov001@gmail.com
 
