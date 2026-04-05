@@ -206,7 +206,7 @@ PRs welcome! Please ensure your suggestion is:
 
 📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your need, get a **free quote within 2 hours**.
 
-🔧 **[Browse 88+ ready-made scrapers on Apify →](https://apify.com/knotless_cadence)** — Reddit, Google, Amazon, HN and more. Deploy in 1 click.
+🔧 **[Browse 78+ ready-made scrapers on Apify →](https://apify.com/knotless_cadence)** — Reddit, Google, Amazon, HN and more. Deploy in 1 click.
 
 ---
 
