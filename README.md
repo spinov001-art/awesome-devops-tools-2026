@@ -1,6 +1,12 @@
 # Awesome DevOps Tools 2026 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of the best DevOps tools, platforms, and resources for 2026. Updated regularly.
+>
+> **⭐ Star this repo** to bookmark it — updated weekly.
+
+> 🚀 **Need custom DevOps automation or data pipelines?** Get a production-grade solution in 48 hours — $250 flat rate. [Get a free quote →](mailto:spinov001@gmail.com) | [Browse 78+ scrapers →](https://apify.com/knotless_cadence)
+
+---
 
 ## Contents
 
@@ -204,7 +210,7 @@ PRs welcome! Please ensure your suggestion is:
 
 **$250 flat rate** — custom monitoring tools, CI/CD integrations, data pipelines, and scrapers built in 48 hours.
 
-📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your need, get a **free quote within 2 hours**.
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — $250 flat rate, 48h delivery. Describe your need, get a **free quote within 2 hours**.
 
 🔧 **[Browse 78+ ready-made scrapers on Apify →](https://apify.com/knotless_cadence)** — Reddit, Google, Amazon, HN and more. Deploy in 1 click.
 
