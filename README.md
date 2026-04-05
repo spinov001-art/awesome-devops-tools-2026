@@ -200,12 +200,21 @@ PRs welcome! Please ensure your suggestion is:
 - Well-documented
 - Genuinely useful for DevOps practitioners
 
+## Need Custom DevOps Automation or Scrapers?
+
+**$250 flat rate** — custom monitoring tools, CI/CD integrations, data pipelines, and scrapers built in 48 hours.
+
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your need, get a **free quote within 2 hours**.
+
+🔧 **[Browse 88+ ready-made scrapers on Apify →](https://apify.com/knotless_cadence)** — Reddit, Google, Amazon, HN and more. Deploy in 1 click.
+
+---
+
 ## Author
 
 **Aleksej Spinov** — AI & Automation Engineer
 - 🌐 [Portfolio](https://github.com/spinov001-art)
 - 💻 [GitHub](https://github.com/spinov001-art) — 270+ open source repos
-- 📧 spinov001@gmail.com
 
 ## License
 
