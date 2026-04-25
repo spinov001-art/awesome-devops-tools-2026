@@ -43,6 +43,7 @@
 - [Spacelift](https://spacelift.io) — CI/CD for infrastructure (Terraform, Pulumi, CloudFormation)
 - [Tekton](https://tekton.dev) — Kubernetes-native CI/CD building blocks
 - [Semaphore](https://semaphoreci.com) — High-performance CI/CD with test parallelism
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ## Infrastructure as Code
 
