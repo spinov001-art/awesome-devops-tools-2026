@@ -153,6 +153,7 @@
 - [incident.io](https://incident.io) — Modern incident management for Slack
 - [Rootly](https://rootly.com) — AI-powered incident management
 - [Statuspage](https://statuspage.io) — Communicate status to users
+- [Spike](https://spike.sh) — Incident management and on-call alerting
 
 ## Cost Optimization
 
