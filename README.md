@@ -113,6 +113,7 @@
 - [SOPS](https://github.com/getsops/sops) — Encrypt files with AWS KMS, GCP KMS, PGP
 - [External Secrets Operator](https://external-secrets.io) — Sync secrets from vaults to Kubernetes
 - [CyberArk Conjur](https://conjur.org) — Enterprise secrets management
+- [KeyDrift](https://keydrift.dev) — Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ## GitOps
 
