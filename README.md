@@ -82,6 +82,7 @@
 - [VictoriaMetrics](https://victoriametrics.com) — High-performance time-series database
 - [Cilium](https://cilium.io) — eBPF-based networking, observability, and security
 - [Pixie](https://px.dev) — Auto-instrumented observability for Kubernetes using eBPF
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) — Self-hosted website uptime, response-time history, and TLS and domain expiry alerts
 
 ## Cloud Platforms
 
